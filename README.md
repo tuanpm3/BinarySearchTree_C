@@ -1,2 +1,2 @@
-# BinarySearchTree_C-
+# BinarySearchTree_C++
 Implement BinarySearchTree in C++
